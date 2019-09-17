@@ -1,0 +1,1133 @@
+Periodo,COD_INFRACCION,DESC_INFRACCION,sum_CANTIDAD_INFRACCIONES
+2015-1,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,7
+2015-1,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,566
+2015-1,B02,Conducir un vehículo con la licencia de conducción vencida,202
+2015-1,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,13
+2015-1,C02,Estacionar un vehículo en los sitios prohibidos,495
+2015-1,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,31
+2015-1,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",900
+2015-1,C24,Conducir motocicleta sin observar las siguientes normas,214
+2015-1,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,106
+2015-1,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",522
+2015-1,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",126
+2015-1,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",151
+2015-1,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",237
+2015-1,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",155
+2015-1,F06,Actuar de manera que ponga en peligro su integridad física,86
+2015-1,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",48
+2015-1,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",324
+2015-1,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",296
+2015-1,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,67
+2015-1,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",185
+2015-2,A05,No respetar las señales de tránsito,6
+2015-2,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,11
+2015-2,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,499
+2015-2,B02,Conducir un vehículo con la licencia de conducción vencida,166
+2015-2,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,7
+2015-2,C02,Estacionar un vehículo en los sitios prohibidos,438
+2015-2,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,17
+2015-2,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1261
+2015-2,C24,Conducir motocicleta sin observar las siguientes normas,215
+2015-2,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,114
+2015-2,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",427
+2015-2,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",111
+2015-2,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",140
+2015-2,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",204
+2015-2,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",101
+2015-2,F06,Actuar de manera que ponga en peligro su integridad física,67
+2015-2,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",28
+2015-2,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",261
+2015-2,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",306
+2015-2,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,59
+2015-2,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",104
+2015-3,A05,No respetar las señales de tránsito,1
+2015-3,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,25
+2015-3,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,519
+2015-3,B02,Conducir un vehículo con la licencia de conducción vencida,193
+2015-3,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,4
+2015-3,C02,Estacionar un vehículo en los sitios prohibidos,544
+2015-3,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,17
+2015-3,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",872
+2015-3,C24,Conducir motocicleta sin observar las siguientes normas,199
+2015-3,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,108
+2015-3,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",467
+2015-3,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",109
+2015-3,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",120
+2015-3,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",205
+2015-3,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",269
+2015-3,F06,Actuar de manera que ponga en peligro su integridad física,75
+2015-3,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",15
+2015-3,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",263
+2015-3,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",232
+2015-3,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,71
+2015-3,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",270
+2015-4,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,22
+2015-4,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,177
+2015-4,B02,Conducir un vehículo con la licencia de conducción vencida,72
+2015-4,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,8
+2015-4,C02,Estacionar un vehículo en los sitios prohibidos,204
+2015-4,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,5
+2015-4,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",207
+2015-4,C24,Conducir motocicleta sin observar las siguientes normas,37
+2015-4,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,46
+2015-4,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",122
+2015-4,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",26
+2015-4,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",77
+2015-4,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",92
+2015-4,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",47
+2015-4,F06,Actuar de manera que ponga en peligro su integridad física,14
+2015-4,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",2
+2015-4,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",81
+2015-4,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",74
+2015-4,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,14
+2015-4,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",67
+2015-5,A05,No respetar las señales de tránsito,2
+2015-5,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,74
+2015-5,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,659
+2015-5,B02,Conducir un vehículo con la licencia de conducción vencida,172
+2015-5,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,3
+2015-5,C02,Estacionar un vehículo en los sitios prohibidos,603
+2015-5,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,19
+2015-5,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1018
+2015-5,C24,Conducir motocicleta sin observar las siguientes normas,221
+2015-5,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,124
+2015-5,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",573
+2015-5,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",55
+2015-5,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",207
+2015-5,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",247
+2015-5,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",228
+2015-5,F06,Actuar de manera que ponga en peligro su integridad física,46
+2015-5,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",12
+2015-5,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",277
+2015-5,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",216
+2015-5,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,60
+2015-5,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",275
+2015-6,A05,No respetar las señales de tránsito,13
+2015-6,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,85
+2015-6,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1050
+2015-6,B02,Conducir un vehículo con la licencia de conducción vencida,355
+2015-6,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,23
+2015-6,C02,Estacionar un vehículo en los sitios prohibidos,613
+2015-6,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,113
+2015-6,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1366
+2015-6,C24,Conducir motocicleta sin observar las siguientes normas,755
+2015-6,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,199
+2015-6,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",931
+2015-6,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",125
+2015-6,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",345
+2015-6,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",374
+2015-6,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",229
+2015-6,F06,Actuar de manera que ponga en peligro su integridad física,191
+2015-6,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",78
+2015-6,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",271
+2015-6,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",446
+2015-6,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,141
+2015-6,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",179
+2015-7,A05,No respetar las señales de tránsito,11
+2015-7,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,65
+2015-7,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1028
+2015-7,B02,Conducir un vehículo con la licencia de conducción vencida,314
+2015-7,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,6
+2015-7,C02,Estacionar un vehículo en los sitios prohibidos,435
+2015-7,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,77
+2015-7,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1133
+2015-7,C24,Conducir motocicleta sin observar las siguientes normas,799
+2015-7,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,374
+2015-7,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",897
+2015-7,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",148
+2015-7,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",254
+2015-7,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",389
+2015-7,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",527
+2015-7,F06,Actuar de manera que ponga en peligro su integridad física,232
+2015-7,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",61
+2015-7,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",278
+2015-7,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",412
+2015-7,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,135
+2015-7,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",262
+2015-8,A05,No respetar las señales de tránsito,11
+2015-8,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,60
+2015-8,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1337
+2015-8,B02,Conducir un vehículo con la licencia de conducción vencida,342
+2015-8,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,9
+2015-8,C02,Estacionar un vehículo en los sitios prohibidos,556
+2015-8,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,82
+2015-8,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1051
+2015-8,C24,Conducir motocicleta sin observar las siguientes normas,751
+2015-8,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,294
+2015-8,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1201
+2015-8,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",101
+2015-8,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",307
+2015-8,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",550
+2015-8,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",332
+2015-8,F06,Actuar de manera que ponga en peligro su integridad física,217
+2015-8,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",114
+2015-8,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",333
+2015-8,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",492
+2015-8,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,154
+2015-8,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",196
+2015-9,A05,No respetar las señales de tránsito,10
+2015-9,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,106
+2015-9,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1175
+2015-9,B02,Conducir un vehículo con la licencia de conducción vencida,305
+2015-9,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,6
+2015-9,C02,Estacionar un vehículo en los sitios prohibidos,463
+2015-9,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,61
+2015-9,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",990
+2015-9,C24,Conducir motocicleta sin observar las siguientes normas,566
+2015-9,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,475
+2015-9,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1052
+2015-9,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",103
+2015-9,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",261
+2015-9,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",494
+2015-9,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",287
+2015-9,F06,Actuar de manera que ponga en peligro su integridad física,244
+2015-9,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",149
+2015-9,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",326
+2015-9,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",499
+2015-9,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,219
+2015-9,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",254
+2015-10,A05,No respetar las señales de tránsito,41
+2015-10,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,174
+2015-10,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1202
+2015-10,B02,Conducir un vehículo con la licencia de conducción vencida,262
+2015-10,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,20
+2015-10,C02,Estacionar un vehículo en los sitios prohibidos,536
+2015-10,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,69
+2015-10,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1054
+2015-10,C24,Conducir motocicleta sin observar las siguientes normas,469
+2015-10,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,403
+2015-10,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1092
+2015-10,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",121
+2015-10,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",255
+2015-10,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",441
+2015-10,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",212
+2015-10,F06,Actuar de manera que ponga en peligro su integridad física,203
+2015-10,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",142
+2015-10,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",354
+2015-10,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",504
+2015-10,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,223
+2015-10,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",288
+2015-11,A05,No respetar las señales de tránsito,39
+2015-11,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,123
+2015-11,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,840
+2015-11,B02,Conducir un vehículo con la licencia de conducción vencida,187
+2015-11,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,22
+2015-11,C02,Estacionar un vehículo en los sitios prohibidos,364
+2015-11,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,68
+2015-11,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",868
+2015-11,C24,Conducir motocicleta sin observar las siguientes normas,289
+2015-11,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,244
+2015-11,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",654
+2015-11,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",125
+2015-11,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",204
+2015-11,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",318
+2015-11,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",158
+2015-11,F06,Actuar de manera que ponga en peligro su integridad física,92
+2015-11,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",120
+2015-11,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",256
+2015-11,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",337
+2015-11,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,168
+2015-11,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",167
+2015-12,A05,No respetar las señales de tránsito,46
+2015-12,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,88
+2015-12,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,650
+2015-12,B02,Conducir un vehículo con la licencia de conducción vencida,183
+2015-12,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,9
+2015-12,C02,Estacionar un vehículo en los sitios prohibidos,435
+2015-12,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,42
+2015-12,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",642
+2015-12,C24,Conducir motocicleta sin observar las siguientes normas,319
+2015-12,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,134
+2015-12,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",567
+2015-12,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",100
+2015-12,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",166
+2015-12,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",257
+2015-12,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",76
+2015-12,F06,Actuar de manera que ponga en peligro su integridad física,84
+2015-12,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",63
+2015-12,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",175
+2015-12,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",350
+2015-12,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,106
+2015-12,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",78
+2016-1,A05,No respetar las señales de tránsito,47
+2016-1,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,271
+2016-1,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1492
+2016-1,B02,Conducir un vehículo con la licencia de conducción vencida,312
+2016-1,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,22
+2016-1,C02,Estacionar un vehículo en los sitios prohibidos,515
+2016-1,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,108
+2016-1,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1617
+2016-1,C24,Conducir motocicleta sin observar las siguientes normas,754
+2016-1,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,241
+2016-1,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1288
+2016-1,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",154
+2016-1,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",293
+2016-1,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",533
+2016-1,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",271
+2016-1,F06,Actuar de manera que ponga en peligro su integridad física,242
+2016-1,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",166
+2016-1,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",379
+2016-1,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",600
+2016-1,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,285
+2016-1,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",260
+2016-2,A05,No respetar las señales de tránsito,167
+2016-2,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,460
+2016-2,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2210
+2016-2,B02,Conducir un vehículo con la licencia de conducción vencida,411
+2016-2,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,38
+2016-2,C02,Estacionar un vehículo en los sitios prohibidos,674
+2016-2,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,214
+2016-2,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",2652
+2016-2,C24,Conducir motocicleta sin observar las siguientes normas,1157
+2016-2,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,423
+2016-2,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1842
+2016-2,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",231
+2016-2,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",407
+2016-2,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",761
+2016-2,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",236
+2016-2,F06,Actuar de manera que ponga en peligro su integridad física,583
+2016-2,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",324
+2016-2,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",614
+2016-2,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1186
+2016-2,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,525
+2016-2,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",196
+2016-3,A05,No respetar las señales de tránsito,472
+2016-3,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,834
+2016-3,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2539
+2016-3,B02,Conducir un vehículo con la licencia de conducción vencida,491
+2016-3,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,143
+2016-3,C02,Estacionar un vehículo en los sitios prohibidos,921
+2016-3,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,270
+2016-3,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1486
+2016-3,C24,Conducir motocicleta sin observar las siguientes normas,1473
+2016-3,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,594
+2016-3,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2188
+2016-3,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",258
+2016-3,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",371
+2016-3,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",907
+2016-3,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",288
+2016-3,F06,Actuar de manera que ponga en peligro su integridad física,669
+2016-3,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",680
+2016-3,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",799
+2016-3,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1445
+2016-3,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,853
+2016-3,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",256
+2016-4,A05,No respetar las señales de tránsito,370
+2016-4,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,750
+2016-4,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2827
+2016-4,B02,Conducir un vehículo con la licencia de conducción vencida,561
+2016-4,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,382
+2016-4,C02,Estacionar un vehículo en los sitios prohibidos,1097
+2016-4,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,275
+2016-4,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1143
+2016-4,C24,Conducir motocicleta sin observar las siguientes normas,2035
+2016-4,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,915
+2016-4,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2649
+2016-4,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",281
+2016-4,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",421
+2016-4,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",1261
+2016-4,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",205
+2016-4,F06,Actuar de manera que ponga en peligro su integridad física,924
+2016-4,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",538
+2016-4,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",924
+2016-4,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1191
+2016-4,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,1098
+2016-4,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",290
+2016-5,A05,No respetar las señales de tránsito,392
+2016-5,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,724
+2016-5,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3247
+2016-5,B02,Conducir un vehículo con la licencia de conducción vencida,574
+2016-5,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,309
+2016-5,C02,Estacionar un vehículo en los sitios prohibidos,1409
+2016-5,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,333
+2016-5,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1237
+2016-5,C24,Conducir motocicleta sin observar las siguientes normas,2666
+2016-5,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,624
+2016-5,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",3005
+2016-5,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",266
+2016-5,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",488
+2016-5,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",1249
+2016-5,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",202
+2016-5,F06,Actuar de manera que ponga en peligro su integridad física,860
+2016-5,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",445
+2016-5,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",1190
+2016-5,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1113
+2016-5,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,992
+2016-5,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",203
+2016-6,A05,No respetar las señales de tránsito,450
+2016-6,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,534
+2016-6,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3033
+2016-6,B02,Conducir un vehículo con la licencia de conducción vencida,531
+2016-6,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,378
+2016-6,C02,Estacionar un vehículo en los sitios prohibidos,893
+2016-6,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,305
+2016-6,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",940
+2016-6,C24,Conducir motocicleta sin observar las siguientes normas,2734
+2016-6,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,490
+2016-6,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2682
+2016-6,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",216
+2016-6,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",355
+2016-6,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",963
+2016-6,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",388
+2016-6,F06,Actuar de manera que ponga en peligro su integridad física,350
+2016-6,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",365
+2016-6,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",932
+2016-6,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",870
+2016-6,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,919
+2016-6,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",190
+2016-7,A05,No respetar las señales de tránsito,279
+2016-7,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,564
+2016-7,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3061
+2016-7,B02,Conducir un vehículo con la licencia de conducción vencida,521
+2016-7,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,515
+2016-7,C02,Estacionar un vehículo en los sitios prohibidos,693
+2016-7,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,186
+2016-7,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1187
+2016-7,C24,Conducir motocicleta sin observar las siguientes normas,2030
+2016-7,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,589
+2016-7,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2647
+2016-7,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",170
+2016-7,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",382
+2016-7,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",1002
+2016-7,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",192
+2016-7,F06,Actuar de manera que ponga en peligro su integridad física,432
+2016-7,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",307
+2016-7,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",1179
+2016-7,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1006
+2016-7,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,950
+2016-7,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",243
+2016-8,A05,No respetar las señales de tránsito,363
+2016-8,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,572
+2016-8,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2860
+2016-8,B02,Conducir un vehículo con la licencia de conducción vencida,463
+2016-8,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,474
+2016-8,C02,Estacionar un vehículo en los sitios prohibidos,717
+2016-8,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,222
+2016-8,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1337
+2016-8,C24,Conducir motocicleta sin observar las siguientes normas,1957
+2016-8,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,540
+2016-8,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2491
+2016-8,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",181
+2016-8,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",361
+2016-8,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",913
+2016-8,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",1138
+2016-8,F06,Actuar de manera que ponga en peligro su integridad física,456
+2016-8,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",328
+2016-8,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",926
+2016-8,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1092
+2016-8,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,858
+2016-8,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",402
+2016-9,A05,No respetar las señales de tránsito,350
+2016-9,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,589
+2016-9,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2499
+2016-9,B02,Conducir un vehículo con la licencia de conducción vencida,489
+2016-9,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,421
+2016-9,C02,Estacionar un vehículo en los sitios prohibidos,474
+2016-9,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,207
+2016-9,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",963
+2016-9,C24,Conducir motocicleta sin observar las siguientes normas,1652
+2016-9,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,386
+2016-9,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2129
+2016-9,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",187
+2016-9,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",296
+2016-9,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",750
+2016-9,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",1120
+2016-9,F06,Actuar de manera que ponga en peligro su integridad física,460
+2016-9,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",335
+2016-9,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",844
+2016-9,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1359
+2016-9,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,479
+2016-9,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",311
+2016-10,A05,No respetar las señales de tránsito,407
+2016-10,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,633
+2016-10,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2748
+2016-10,B02,Conducir un vehículo con la licencia de conducción vencida,515
+2016-10,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,383
+2016-10,C02,Estacionar un vehículo en los sitios prohibidos,551
+2016-10,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,238
+2016-10,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1167
+2016-10,C24,Conducir motocicleta sin observar las siguientes normas,1698
+2016-10,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,649
+2016-10,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2214
+2016-10,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",209
+2016-10,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",359
+2016-10,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",809
+2016-10,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",1078
+2016-10,F06,Actuar de manera que ponga en peligro su integridad física,615
+2016-10,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",423
+2016-10,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",905
+2016-10,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1546
+2016-10,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,562
+2016-10,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",305
+2016-11,A05,No respetar las señales de tránsito,384
+2016-11,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,568
+2016-11,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2449
+2016-11,B02,Conducir un vehículo con la licencia de conducción vencida,506
+2016-11,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,330
+2016-11,C02,Estacionar un vehículo en los sitios prohibidos,693
+2016-11,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,238
+2016-11,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",971
+2016-11,C24,Conducir motocicleta sin observar las siguientes normas,1447
+2016-11,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,643
+2016-11,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1991
+2016-11,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",196
+2016-11,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",232
+2016-11,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",628
+2016-11,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",537
+2016-11,F06,Actuar de manera que ponga en peligro su integridad física,545
+2016-11,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",413
+2016-11,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",820
+2016-11,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1666
+2016-11,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,522
+2016-11,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",261
+2016-12,A05,No respetar las señales de tránsito,393
+2016-12,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,498
+2016-12,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1708
+2016-12,B02,Conducir un vehículo con la licencia de conducción vencida,338
+2016-12,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,151
+2016-12,C02,Estacionar un vehículo en los sitios prohibidos,801
+2016-12,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,200
+2016-12,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",695
+2016-12,C24,Conducir motocicleta sin observar las siguientes normas,849
+2016-12,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,559
+2016-12,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1362
+2016-12,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",178
+2016-12,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",259
+2016-12,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",409
+2016-12,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",260
+2016-12,F06,Actuar de manera que ponga en peligro su integridad física,325
+2016-12,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",364
+2016-12,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",566
+2016-12,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1199
+2016-12,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,422
+2016-12,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",101
+2017-1,A05,No respetar las señales de tránsito,390
+2017-1,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,491
+2017-1,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3306
+2017-1,B02,Conducir un vehículo con la licencia de conducción vencida,618
+2017-1,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,377
+2017-1,C02,Estacionar un vehículo en los sitios prohibidos,2200
+2017-1,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,329
+2017-1,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1372
+2017-1,C24,Conducir motocicleta sin observar las siguientes normas,1780
+2017-1,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,722
+2017-1,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2617
+2017-1,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",274
+2017-1,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",507
+2017-1,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",769
+2017-1,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",595
+2017-1,F06,Actuar de manera que ponga en peligro su integridad física,492
+2017-1,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",335
+2017-1,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",891
+2017-1,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",2201
+2017-1,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,740
+2017-1,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",268
+2017-2,A05,No respetar las señales de tránsito,285
+2017-2,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,332
+2017-2,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3129
+2017-2,B02,Conducir un vehículo con la licencia de conducción vencida,600
+2017-2,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,486
+2017-2,C02,Estacionar un vehículo en los sitios prohibidos,2187
+2017-2,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,352
+2017-2,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",2859
+2017-2,C24,Conducir motocicleta sin observar las siguientes normas,1794
+2017-2,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,628
+2017-2,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2392
+2017-2,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",328
+2017-2,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",463
+2017-2,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",746
+2017-2,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",421
+2017-2,F06,Actuar de manera que ponga en peligro su integridad física,290
+2017-2,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",178
+2017-2,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",840
+2017-2,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",989
+2017-2,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,450
+2017-2,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",206
+2017-3,A05,No respetar las señales de tránsito,301
+2017-3,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,336
+2017-3,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2176
+2017-3,B02,Conducir un vehículo con la licencia de conducción vencida,449
+2017-3,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,375
+2017-3,C02,Estacionar un vehículo en los sitios prohibidos,1649
+2017-3,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,176
+2017-3,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1551
+2017-3,C24,Conducir motocicleta sin observar las siguientes normas,1185
+2017-3,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,486
+2017-3,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1847
+2017-3,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",226
+2017-3,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",326
+2017-3,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",608
+2017-3,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",577
+2017-3,F06,Actuar de manera que ponga en peligro su integridad física,1196
+2017-3,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",215
+2017-3,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",639
+2017-3,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",765
+2017-3,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,374
+2017-3,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",240
+2017-4,A05,No respetar las señales de tránsito,467
+2017-4,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,540
+2017-4,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2789
+2017-4,B02,Conducir un vehículo con la licencia de conducción vencida,450
+2017-4,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,361
+2017-4,C02,Estacionar un vehículo en los sitios prohibidos,2106
+2017-4,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,229
+2017-4,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1676
+2017-4,C24,Conducir motocicleta sin observar las siguientes normas,1574
+2017-4,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,586
+2017-4,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2295
+2017-4,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",273
+2017-4,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",325
+2017-4,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",758
+2017-4,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",822
+2017-4,F06,Actuar de manera que ponga en peligro su integridad física,1157
+2017-4,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",281
+2017-4,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",899
+2017-4,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1083
+2017-4,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,346
+2017-4,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",294
+2017-5,A05,No respetar las señales de tránsito,353
+2017-5,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,356
+2017-5,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2864
+2017-5,B02,Conducir un vehículo con la licencia de conducción vencida,391
+2017-5,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,346
+2017-5,C02,Estacionar un vehículo en los sitios prohibidos,1530
+2017-5,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,206
+2017-5,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1863
+2017-5,C24,Conducir motocicleta sin observar las siguientes normas,1613
+2017-5,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,466
+2017-5,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2422
+2017-5,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",281
+2017-5,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",369
+2017-5,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",719
+2017-5,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",590
+2017-5,F06,Actuar de manera que ponga en peligro su integridad física,523
+2017-5,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",232
+2017-5,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",895
+2017-5,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1033
+2017-5,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,365
+2017-5,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",292
+2017-6,A05,No respetar las señales de tránsito,319
+2017-6,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,341
+2017-6,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2730
+2017-6,B02,Conducir un vehículo con la licencia de conducción vencida,487
+2017-6,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,411
+2017-6,C02,Estacionar un vehículo en los sitios prohibidos,1657
+2017-6,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,217
+2017-6,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1773
+2017-6,C24,Conducir motocicleta sin observar las siguientes normas,1542
+2017-6,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,609
+2017-6,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2139
+2017-6,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",313
+2017-6,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",297
+2017-6,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",695
+2017-6,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",706
+2017-6,F06,Actuar de manera que ponga en peligro su integridad física,467
+2017-6,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",328
+2017-6,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",789
+2017-6,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1172
+2017-6,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,412
+2017-6,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",409
+2017-7,A05,No respetar las señales de tránsito,265
+2017-7,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,183
+2017-7,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2901
+2017-7,B02,Conducir un vehículo con la licencia de conducción vencida,504
+2017-7,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,451
+2017-7,C02,Estacionar un vehículo en los sitios prohibidos,2274
+2017-7,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,272
+2017-7,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1475
+2017-7,C24,Conducir motocicleta sin observar las siguientes normas,1497
+2017-7,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,997
+2017-7,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1879
+2017-7,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",296
+2017-7,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",291
+2017-7,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",581
+2017-7,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",646
+2017-7,F06,Actuar de manera que ponga en peligro su integridad física,368
+2017-7,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",203
+2017-7,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",780
+2017-7,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1190
+2017-7,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,497
+2017-7,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",407
+2017-8,A05,No respetar las señales de tránsito,80
+2017-8,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,90
+2017-8,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3253
+2017-8,B02,Conducir un vehículo con la licencia de conducción vencida,651
+2017-8,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,747
+2017-8,C02,Estacionar un vehículo en los sitios prohibidos,2308
+2017-8,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,323
+2017-8,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1582
+2017-8,C24,Conducir motocicleta sin observar las siguientes normas,1442
+2017-8,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,720
+2017-8,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",2092
+2017-8,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",384
+2017-8,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",308
+2017-8,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",649
+2017-8,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",604
+2017-8,F06,Actuar de manera que ponga en peligro su integridad física,525
+2017-8,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",308
+2017-8,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",935
+2017-8,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1401
+2017-8,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,570
+2017-8,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",418
+2017-9,A05,No respetar las señales de tránsito,83
+2017-9,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,159
+2017-9,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2315
+2017-9,B02,Conducir un vehículo con la licencia de conducción vencida,424
+2017-9,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,479
+2017-9,C02,Estacionar un vehículo en los sitios prohibidos,1812
+2017-9,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,250
+2017-9,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1194
+2017-9,C24,Conducir motocicleta sin observar las siguientes normas,957
+2017-9,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,427
+2017-9,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1598
+2017-9,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",358
+2017-9,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",237
+2017-9,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",483
+2017-9,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",425
+2017-9,F06,Actuar de manera que ponga en peligro su integridad física,378
+2017-9,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",260
+2017-9,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",680
+2017-9,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1013
+2017-9,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,421
+2017-9,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",388
+2017-10,A05,No respetar las señales de tránsito,104
+2017-10,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,175
+2017-10,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2409
+2017-10,B02,Conducir un vehículo con la licencia de conducción vencida,346
+2017-10,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,355
+2017-10,C02,Estacionar un vehículo en los sitios prohibidos,1903
+2017-10,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,255
+2017-10,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1108
+2017-10,C24,Conducir motocicleta sin observar las siguientes normas,984
+2017-10,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,377
+2017-10,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1664
+2017-10,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",322
+2017-10,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",267
+2017-10,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",529
+2017-10,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",611
+2017-10,F06,Actuar de manera que ponga en peligro su integridad física,258
+2017-10,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",203
+2017-10,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",778
+2017-10,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",989
+2017-10,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,472
+2017-10,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",353
+2017-11,A05,No respetar las señales de tránsito,166
+2017-11,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,119
+2017-11,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2080
+2017-11,B02,Conducir un vehículo con la licencia de conducción vencida,292
+2017-11,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,211
+2017-11,C02,Estacionar un vehículo en los sitios prohibidos,1118
+2017-11,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,233
+2017-11,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",934
+2017-11,C24,Conducir motocicleta sin observar las siguientes normas,777
+2017-11,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,489
+2017-11,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1419
+2017-11,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",387
+2017-11,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",231
+2017-11,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",433
+2017-11,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",448
+2017-11,F06,Actuar de manera que ponga en peligro su integridad física,258
+2017-11,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",142
+2017-11,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",686
+2017-11,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",857
+2017-11,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,355
+2017-11,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",305
+2017-12,A05,No respetar las señales de tránsito,76
+2017-12,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,72
+2017-12,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1494
+2017-12,B02,Conducir un vehículo con la licencia de conducción vencida,205
+2017-12,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,124
+2017-12,C02,Estacionar un vehículo en los sitios prohibidos,767
+2017-12,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,118
+2017-12,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",678
+2017-12,C24,Conducir motocicleta sin observar las siguientes normas,497
+2017-12,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,317
+2017-12,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1020
+2017-12,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",261
+2017-12,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",237
+2017-12,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",348
+2017-12,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",431
+2017-12,F06,Actuar de manera que ponga en peligro su integridad física,111
+2017-12,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",72
+2017-12,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",440
+2017-12,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",711
+2017-12,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,198
+2017-12,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",89
+2018-1,A05,No respetar las señales de tránsito,304
+2018-1,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,139
+2018-1,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2150
+2018-1,B02,Conducir un vehículo con la licencia de conducción vencida,316
+2018-1,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,181
+2018-1,C02,Estacionar un vehículo en los sitios prohibidos,733
+2018-1,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,252
+2018-1,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",969
+2018-1,C24,Conducir motocicleta sin observar las siguientes normas,809
+2018-1,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,407
+2018-1,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1351
+2018-1,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",322
+2018-1,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",314
+2018-1,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",410
+2018-1,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",509
+2018-1,F06,Actuar de manera que ponga en peligro su integridad física,257
+2018-1,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",169
+2018-1,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",640
+2018-1,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1077
+2018-1,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,283
+2018-1,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",187
+2018-2,A05,No respetar las señales de tránsito,376
+2018-2,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,148
+2018-2,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2538
+2018-2,B02,Conducir un vehículo con la licencia de conducción vencida,291
+2018-2,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,242
+2018-2,C02,Estacionar un vehículo en los sitios prohibidos,811
+2018-2,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,243
+2018-2,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1666
+2018-2,C24,Conducir motocicleta sin observar las siguientes normas,1049
+2018-2,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,532
+2018-2,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1356
+2018-2,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",310
+2018-2,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",267
+2018-2,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",460
+2018-2,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",696
+2018-2,F06,Actuar de manera que ponga en peligro su integridad física,448
+2018-2,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",432
+2018-2,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",766
+2018-2,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1079
+2018-2,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,460
+2018-2,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",182
+2018-3,A05,No respetar las señales de tránsito,301
+2018-3,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,202
+2018-3,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2482
+2018-3,B02,Conducir un vehículo con la licencia de conducción vencida,352
+2018-3,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,333
+2018-3,C02,Estacionar un vehículo en los sitios prohibidos,513
+2018-3,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,207
+2018-3,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",997
+2018-3,C24,Conducir motocicleta sin observar las siguientes normas,940
+2018-3,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,657
+2018-3,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1328
+2018-3,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",281
+2018-3,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",247
+2018-3,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",434
+2018-3,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",627
+2018-3,F06,Actuar de manera que ponga en peligro su integridad física,404
+2018-3,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",318
+2018-3,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",824
+2018-3,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",961
+2018-3,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,376
+2018-3,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",218
+2018-4,A05,No respetar las señales de tránsito,195
+2018-4,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,148
+2018-4,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2574
+2018-4,B02,Conducir un vehículo con la licencia de conducción vencida,364
+2018-4,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,439
+2018-4,C02,Estacionar un vehículo en los sitios prohibidos,548
+2018-4,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,164
+2018-4,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",982
+2018-4,C24,Conducir motocicleta sin observar las siguientes normas,754
+2018-4,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,657
+2018-4,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1333
+2018-4,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",291
+2018-4,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",200
+2018-4,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",410
+2018-4,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",550
+2018-4,F06,Actuar de manera que ponga en peligro su integridad física,298
+2018-4,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",298
+2018-4,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",801
+2018-4,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1033
+2018-4,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,436
+2018-4,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",306
+2018-5,A05,No respetar las señales de tránsito,210
+2018-5,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,201
+2018-5,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3144
+2018-5,B02,Conducir un vehículo con la licencia de conducción vencida,378
+2018-5,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,623
+2018-5,C02,Estacionar un vehículo en los sitios prohibidos,214
+2018-5,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,278
+2018-5,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1259
+2018-5,C24,Conducir motocicleta sin observar las siguientes normas,1004
+2018-5,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,740
+2018-5,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1820
+2018-5,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",299
+2018-5,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",292
+2018-5,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",629
+2018-5,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",509
+2018-5,F06,Actuar de manera que ponga en peligro su integridad física,433
+2018-5,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",336
+2018-5,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",1004
+2018-5,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1057
+2018-5,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,563
+2018-5,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",316
+2018-6,A05,No respetar las señales de tránsito,194
+2018-6,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,183
+2018-6,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,3094
+2018-6,B02,Conducir un vehículo con la licencia de conducción vencida,331
+2018-6,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,547
+2018-6,C02,Estacionar un vehículo en los sitios prohibidos,194
+2018-6,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,255
+2018-6,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1385
+2018-6,C24,Conducir motocicleta sin observar las siguientes normas,1009
+2018-6,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,590
+2018-6,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1815
+2018-6,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",269
+2018-6,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",268
+2018-6,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",558
+2018-6,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",402
+2018-6,F06,Actuar de manera que ponga en peligro su integridad física,343
+2018-6,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",344
+2018-6,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",998
+2018-6,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1111
+2018-6,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,525
+2018-6,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",292
+2018-7,A05,No respetar las señales de tránsito,152
+2018-7,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,108
+2018-7,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2496
+2018-7,B02,Conducir un vehículo con la licencia de conducción vencida,242
+2018-7,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,353
+2018-7,C02,Estacionar un vehículo en los sitios prohibidos,243
+2018-7,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,158
+2018-7,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1175
+2018-7,C24,Conducir motocicleta sin observar las siguientes normas,795
+2018-7,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,407
+2018-7,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1392
+2018-7,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",257
+2018-7,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",189
+2018-7,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",419
+2018-7,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",253
+2018-7,F06,Actuar de manera que ponga en peligro su integridad física,279
+2018-7,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",197
+2018-7,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",898
+2018-7,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",987
+2018-7,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,522
+2018-7,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",170
+2018-8,A05,No respetar las señales de tránsito,169
+2018-8,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,145
+2018-8,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2447
+2018-8,B02,Conducir un vehículo con la licencia de conducción vencida,256
+2018-8,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,240
+2018-8,C02,Estacionar un vehículo en los sitios prohibidos,285
+2018-8,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,168
+2018-8,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1078
+2018-8,C24,Conducir motocicleta sin observar las siguientes normas,701
+2018-8,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,709
+2018-8,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1268
+2018-8,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",385
+2018-8,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",254
+2018-8,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",535
+2018-8,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",491
+2018-8,F06,Actuar de manera que ponga en peligro su integridad física,242
+2018-8,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",484
+2018-8,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",822
+2018-8,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",955
+2018-8,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,496
+2018-8,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",55
+2018-9,A05,No respetar las señales de tránsito,109
+2018-9,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,112
+2018-9,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1974
+2018-9,B02,Conducir un vehículo con la licencia de conducción vencida,215
+2018-9,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,225
+2018-9,C02,Estacionar un vehículo en los sitios prohibidos,287
+2018-9,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,221
+2018-9,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",997
+2018-9,C24,Conducir motocicleta sin observar las siguientes normas,539
+2018-9,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,537
+2018-9,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1014
+2018-9,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",260
+2018-9,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",205
+2018-9,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",330
+2018-9,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",426
+2018-9,F06,Actuar de manera que ponga en peligro su integridad física,143
+2018-9,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",280
+2018-9,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",602
+2018-9,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",780
+2018-9,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,401
+2018-9,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",17
+2018-10,A05,No respetar las señales de tránsito,119
+2018-10,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,98
+2018-10,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1876
+2018-10,B02,Conducir un vehículo con la licencia de conducción vencida,221
+2018-10,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,221
+2018-10,C02,Estacionar un vehículo en los sitios prohibidos,315
+2018-10,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,159
+2018-10,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",959
+2018-10,C24,Conducir motocicleta sin observar las siguientes normas,484
+2018-10,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,396
+2018-10,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",992
+2018-10,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",296
+2018-10,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",187
+2018-10,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",268
+2018-10,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",626
+2018-10,F06,Actuar de manera que ponga en peligro su integridad física,148
+2018-10,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",205
+2018-10,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",599
+2018-10,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",773
+2018-10,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,340
+2018-10,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",20
+2018-11,A05,No respetar las señales de tránsito,108
+2018-11,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,123
+2018-11,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1926
+2018-11,B02,Conducir un vehículo con la licencia de conducción vencida,227
+2018-11,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,243
+2018-11,C02,Estacionar un vehículo en los sitios prohibidos,307
+2018-11,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,433
+2018-11,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1010
+2018-11,C24,Conducir motocicleta sin observar las siguientes normas,640
+2018-11,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,387
+2018-11,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1115
+2018-11,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",296
+2018-11,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",353
+2018-11,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",381
+2018-11,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",311
+2018-11,F06,Actuar de manera que ponga en peligro su integridad física,135
+2018-11,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",226
+2018-11,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",641
+2018-11,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",859
+2018-11,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,341
+2018-11,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",26
+2018-12,A05,No respetar las señales de tránsito,68
+2018-12,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,73
+2018-12,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1405
+2018-12,B02,Conducir un vehículo con la licencia de conducción vencida,184
+2018-12,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,135
+2018-12,C02,Estacionar un vehículo en los sitios prohibidos,383
+2018-12,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,188
+2018-12,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",708
+2018-12,C24,Conducir motocicleta sin observar las siguientes normas,346
+2018-12,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,353
+2018-12,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",782
+2018-12,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",284
+2018-12,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",257
+2018-12,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",276
+2018-12,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",158
+2018-12,F06,Actuar de manera que ponga en peligro su integridad física,41
+2018-12,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",158
+2018-12,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",471
+2018-12,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",694
+2018-12,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,267
+2018-12,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",14
+2019-1,A05,No respetar las señales de tránsito,144
+2019-1,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,162
+2019-1,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2393
+2019-1,B02,Conducir un vehículo con la licencia de conducción vencida,285
+2019-1,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,359
+2019-1,C02,Estacionar un vehículo en los sitios prohibidos,333
+2019-1,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,240
+2019-1,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1114
+2019-1,C24,Conducir motocicleta sin observar las siguientes normas,660
+2019-1,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,428
+2019-1,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1150
+2019-1,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",308
+2019-1,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",285
+2019-1,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",388
+2019-1,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",349
+2019-1,F06,Actuar de manera que ponga en peligro su integridad física,104
+2019-1,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",254
+2019-1,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",874
+2019-1,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",978
+2019-1,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,453
+2019-1,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",210
+2019-2,A05,No respetar las señales de tránsito,205
+2019-2,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,263
+2019-2,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2149
+2019-2,B02,Conducir un vehículo con la licencia de conducción vencida,301
+2019-2,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,323
+2019-2,C02,Estacionar un vehículo en los sitios prohibidos,247
+2019-2,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,186
+2019-2,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1545
+2019-2,C24,Conducir motocicleta sin observar las siguientes normas,535
+2019-2,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,359
+2019-2,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1051
+2019-2,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",270
+2019-2,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",267
+2019-2,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",359
+2019-2,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",315
+2019-2,F06,Actuar de manera que ponga en peligro su integridad física,92
+2019-2,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",343
+2019-2,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",751
+2019-2,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",937
+2019-2,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,556
+2019-2,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",245
+2019-3,A05,No respetar las señales de tránsito,134
+2019-3,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,209
+2019-3,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2345
+2019-3,B02,Conducir un vehículo con la licencia de conducción vencida,400
+2019-3,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,427
+2019-3,C02,Estacionar un vehículo en los sitios prohibidos,285
+2019-3,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,239
+2019-3,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1856
+2019-3,C24,Conducir motocicleta sin observar las siguientes normas,668
+2019-3,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,413
+2019-3,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1199
+2019-3,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",269
+2019-3,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",286
+2019-3,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",396
+2019-3,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",306
+2019-3,F06,Actuar de manera que ponga en peligro su integridad física,137
+2019-3,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",237
+2019-3,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",891
+2019-3,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1081
+2019-3,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,589
+2019-3,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",215
+2019-4,A05,No respetar las señales de tránsito,171
+2019-4,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,175
+2019-4,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,1979
+2019-4,B02,Conducir un vehículo con la licencia de conducción vencida,237
+2019-4,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,256
+2019-4,C02,Estacionar un vehículo en los sitios prohibidos,249
+2019-4,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,178
+2019-4,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1182
+2019-4,C24,Conducir motocicleta sin observar las siguientes normas,617
+2019-4,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,346
+2019-4,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1060
+2019-4,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",225
+2019-4,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",315
+2019-4,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",410
+2019-4,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",431
+2019-4,F06,Actuar de manera que ponga en peligro su integridad física,156
+2019-4,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",309
+2019-4,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",844
+2019-4,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",930
+2019-4,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,558
+2019-4,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",151
+2019-5,A05,No respetar las señales de tránsito,283
+2019-5,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,214
+2019-5,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2610
+2019-5,B02,Conducir un vehículo con la licencia de conducción vencida,346
+2019-5,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,411
+2019-5,C02,Estacionar un vehículo en los sitios prohibidos,336
+2019-5,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,222
+2019-5,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1191
+2019-5,C24,Conducir motocicleta sin observar las siguientes normas,751
+2019-5,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,505
+2019-5,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1293
+2019-5,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",297
+2019-5,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",358
+2019-5,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",505
+2019-5,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",783
+2019-5,F06,Actuar de manera que ponga en peligro su integridad física,181
+2019-5,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",428
+2019-5,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",1037
+2019-5,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",1262
+2019-5,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,611
+2019-5,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",289
+2019-6,A05,No respetar las señales de tránsito,233
+2019-6,A11,Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias,193
+2019-6,B01,Conducir un vehículo sin llevar consigo la licencia de conducción,2234
+2019-6,B02,Conducir un vehículo con la licencia de conducción vencida,280
+2019-6,B15,Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado,322
+2019-6,C02,Estacionar un vehículo en los sitios prohibidos,238
+2019-6,C06,No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo y los cinturones de seguridad en los asientos traseros en los vehículos fabricados a partir del año 2004,209
+2019-6,C14,"""Transitar por los siguientes sitios restringidos o en horas prohibidas por la autoridad competente.  Además, el vehículo será inmovilizado""",1039
+2019-6,C24,Conducir motocicleta sin observar las siguientes normas,713
+2019-6,C31,No acatar las señales de tránsito o requerimientos impartidos por los agentes de tránsito,370
+2019-6,C35,"""No realizar la revisión técnico-mecánica y de emisiones contaminantes en los siguientes plazos o cuando aun portando los certificados correspondientes no cuenta con las siguientes condiciones técnico mecánica y de emisiones contaminantes, además el vehículo será inmovilizado""",1146
+2019-6,C38,"""Usar sistemas móviles de comunicaciones o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres""",245
+2019-6,D01,"""Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos hasta que éste sea retirado por una persona autorizada por el infractor que tenga licencia de conducción""",365
+2019-6,D02,"""Conducir sin portar el Seguro Obligatorio de Accidentes de tránsito ordenado por la ley. Además, el vehículo será inmovilizado""",509
+2019-6,D12,"""Conducir un vehículo que, sin la debida autorización se destine a un servicio diferente de aquel para la cual tiene licencia de tránsito.  Además el vehículo será inmovilizado por primera vez por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días""",881
+2019-6,F06,Actuar de manera que ponga en peligro su integridad física,126
+2019-6,G02,"""Los peatones y ciclistas que no cumplan con las disposiciones del Código, serán amonestados serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso informativo dictado por las autoridades de tránsito""",330
+2019-6,H02,"""El conductor que no porte la licencia de tránsito, además el vehículo será inmovilizado""",748
+2019-6,H03,"""El conductor, pasajero o peatón, que obstaculice, perjudique o ponga en riesgo a las demás personas o que no cumplan las normas y señales de tránsito que les sean aplicables o no obedezca las indicaciones que les den las autoridades de tránsito""",887
+2019-6,H13,Las demás conductas que constituyan infracción a las normas de tránsito y que no se encuentren descritas en este acto administrativo,479
+2019-6,590,"""Cuando se compruebe que el equipo está prestando un servicio no autorizado, entendiéndose como aquel servicio que se preta a través de un vehículo automotor de servicio público sin el permiso, o cuando se preste contrariando las condiciones iniciales.""",232
